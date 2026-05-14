@@ -44,5 +44,7 @@ A comprehensive educational consultancy platform design connecting students with
 - Flexible typography scale
 
 figma file : https://www.figma.com/design/6Ox3n4BJYdkwz7VfjBqApM/figma-practice?node-id=0-1&p=f&t=9THJhekhjQeyvw9s-0
+
+
 <img width="688" height="826" alt="image" src="https://github.com/user-attachments/assets/6a01e721-be00-48dd-b028-611a69304900" />
 
